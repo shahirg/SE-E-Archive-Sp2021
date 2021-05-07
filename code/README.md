@@ -1,6 +1,6 @@
 # Code Explanation and Repurposing
 
-<p>lib_main_app stores all the code for the main app. The grocery store locator within the main app is not 100% functions so the main code for the grocery store locator was also given seperately. The pubspec.yaml files for each are given which hold all the dependencies for both.</p>
+<p>chef_pal stores all the code for the main app. The grocery store locator within the main app is not 100% functions so the main code for the grocery store locator was also given seperately. The pubspec.yaml files for each are given which hold all the dependencies for the app.</p>
 
 ## Setup
 
